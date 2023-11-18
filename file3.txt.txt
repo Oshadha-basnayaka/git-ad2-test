@@ -2,3 +2,8 @@ hi hi hi bn mk
 
 
 add new line -bugpix-forget
+
+edit on deature branch
+
+init onn branch master
+
